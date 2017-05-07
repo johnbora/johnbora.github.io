@@ -1,12 +1,17 @@
 body {
-	color: black
-	font: Helvetica
-	font-size: 20;
+	color: red;
+	font-family: Helvetica;
+	font-size: 20px;
+	background-image: url('../images/Thomas_Jeffersons_Monticello.jpg');
 }
 
 img {
-	size: 500px
+   width: 50%;
 }
 p	{
 	text-align: center;
+}
+
+li {
+	list-style-type: none;
 }
