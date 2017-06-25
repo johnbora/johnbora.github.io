@@ -1,0 +1,24 @@
+h1 {font-family: 'Antic Didone';
+		text-align: center;
+		font-size: 45px;
+}
+
+h3 {font-family: 'Oxygen';
+	 font-size: medium;
+	 text-align: center;
+}
+
+body {
+	color: black;
+	font-family: 'Oxygen', sans-serif;
+	font-size: 1em;
+	background-color: white;
+}
+
+img {
+	border-radius: 50%;
+	max-height: 42%;
+	max-width: 42%;
+	display: block;
+	margin: 0 auto;
+}
